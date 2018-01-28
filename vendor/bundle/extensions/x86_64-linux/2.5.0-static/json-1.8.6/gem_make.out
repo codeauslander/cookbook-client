@@ -1,0 +1,13 @@
+current directory: /home/u/Actualize/cookbook-client/vendor/bundle/gems/json-1.8.6/ext/json
+/home/u/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20180127-3314-1jpzrk4.rb extconf.rb
+creating Makefile
+
+current directory: /home/u/Actualize/cookbook-client/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/u/Actualize/cookbook-client/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/u/Actualize/cookbook-client/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR=" install

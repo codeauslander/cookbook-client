@@ -1,0 +1,43 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    addressable (2.3.8)
+    equatable (0.5.0)
+    json (1.8.6)
+    mime-types (1.25.1)
+    necromancer (0.4.0)
+    paint (2.0.1)
+    pastel (0.7.2)
+      equatable (~> 0.5.0)
+      tty-color (~> 0.4.0)
+    rest-client (1.6.9)
+      mime-types (~> 1.16)
+    tty-color (0.4.2)
+    tty-screen (0.6.4)
+    tty-table (0.9.0)
+      equatable (~> 0.5.0)
+      necromancer (~> 0.4.0)
+      pastel (~> 0.7.0)
+      tty-screen (~> 0.6.0)
+      unicode-display_width (~> 1.1.0)
+      verse (~> 0.5.0)
+    unicode-display_width (1.1.3)
+    unicode_utils (1.4.0)
+    unirest (1.1.2)
+      addressable (~> 2.3.5)
+      json (~> 1.8.1)
+      rest-client (~> 1.6.7)
+    verse (0.5.0)
+      unicode-display_width (~> 1.1.0)
+      unicode_utils (~> 1.4.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  paint
+  tty-table
+  unirest (~> 1.1.2)
+
+BUNDLED WITH
+   1.16.1
